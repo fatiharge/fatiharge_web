@@ -49,3 +49,4 @@ app.*.map.json
 /.scannerwork/
 /lib/product/design/
 /Dockerfile
+/test/*
