@@ -48,3 +48,4 @@ app.*.map.json
 /lib/secret/secret.dart
 /.scannerwork/
 /lib/product/design/
+/Dockerfile
