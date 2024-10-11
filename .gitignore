@@ -46,3 +46,4 @@ app.*.map.json
 .fvm/
 /lib/page/home/view/contact_button.dart
 /lib/secret/secret.dart
+/.scannerwork/
