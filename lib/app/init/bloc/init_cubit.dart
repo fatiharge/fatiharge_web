@@ -21,7 +21,7 @@ class InitCubit extends Cubit<int> {
     final jobs = [
       // homeExtractGifFrames,
       initEasyLoad,
-      initializeServerpodClient
+      initializeServerpodClient,
     ];
 
     await executeJobs(jobs);
