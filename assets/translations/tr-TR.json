@@ -1,0 +1,57 @@
+{
+  "test": "test",
+  "app_bar": {
+    "about_me": "Hakkimda",
+    "mission": "Amacimiz",
+    "services": "Hizmetler",
+    "blog": "Blog"
+  },
+  "general": {
+    "contact_me": "İletişime Geç",
+    "contact_me_upper": "İLETİŞİME GEÇ",
+    "forward": "İlerle"
+  },
+  "loading": {
+    "innovation": "İnovasyon",
+    "breakthrough": "Atılım",
+    "transformation": "Dönüşüm",
+    "revolution": "Devrim"
+  },
+  "home": {
+    "catchword": "İnovasyonu Keşfet, Sınırları Aş",
+    "discover": "Keşfet",
+    "discover_title": "Yeniliğin Peşinde !",
+    "discover_text": "Fatih Arge ile teknolojinin ve inovasyonun sonsuz dünyasına adım atın. Sınırları aşarak geleceği keşfetmeye, yeni fikirler ve çözümlerle yarının dünyasını bugünden inşa etmeye hazır olun. İnovasyonun gücüyle, hayal gücünüzü gerçeğe dönüştürün.",
+    "contact_us_title": "Her zaman yanınızdayız",
+    "contact_us_text": "Sorularınız için bizimle iletişime geçmekten çekinmeyin.",
+    "contact_write": "Bana Yazın",
+    "contact_call": "Beni Arayın",
+    "contact_location": "Lokasyon",
+    "contact_name": "Adınız",
+    "contact_email": "E-posta Adresiniz",
+    "contact_message": "Mesajınız"
+
+  },
+  "services": {
+    "consulting": {
+      "title": "Danışmanlık",
+      "description": "İş süreçlerinizi optimize etmek için teknoloji çözümleri sunuyoruz."
+    },
+    "mobile_app_development": {
+      "title": "Mobil Uygulama Geliştirme",
+      "description": "Yüksek kaliteli, kullanıcı dostu mobil uygulamalar oluşturuyoruz."
+    },
+    "native_plugins": {
+      "title": "Plugin'ler",
+      "description": "Ayrıca, özel ihtiyaçlarınız için native çözümler geliştirmek üzere plugin'ler tasarlayabiliriz."
+    },
+    "web_development": {
+      "title": "Web Geliştirme",
+      "description": "İhtiyaçlarınıza özel, ölçeklenebilir web siteleri tasarlıyoruz."
+    },
+    "ecommerce_solutions": {
+      "title": "E-Ticaret Çözümleri",
+      "description": "Online mağazanız için kullanıcı dostu e-ticaret platformları oluşturuyoruz."
+    }
+  }
+}

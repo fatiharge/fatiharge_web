@@ -1,0 +1,16 @@
+services:
+  fatiharge:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fatiharge
+    labels:
+      - "traefik.http.routers.fatiharge.rule=Host(`fatiharge.com`)"
+      - "traefik.http.routers.fatiharge.entrypoints=websecure"
+      - "traefik.http.routers.fatiharge.tls.certresolver=myresolver"
+    networks:
+      - reverse-proxy
+
+networks:
+  reverse-proxy:
+    external: true

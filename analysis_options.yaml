@@ -1,0 +1,14 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - "lib/generated/*.dart"
+    - "lib/product/init/lang/*"
+    - "lib/product/model*"
+
+linter:
+  rules:
+    sort_pub_dependencies: false
+    no_leading_underscores_for_local_identifiers: false
+    library_private_types_in_public_api: false
+    public_member_api_docs: false
