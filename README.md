@@ -1,3 +1,7 @@
+# deprecated repo 
+
+new == > https://github.com/fatiharge/fatiharge_frontend 
+
 # Fatih Arge
 
 Fatih Arge, web sayfası için geliştirilmiş bir Flutter projesidir.
